@@ -1,0 +1,6 @@
+{
+  "name": "태양계 중력 시뮬레이터",
+  "description": "뉴턴 만유인력 법칙 기반의 태양계 8개 행성 공전 궤도 및 실시간 중력 상호작용 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
